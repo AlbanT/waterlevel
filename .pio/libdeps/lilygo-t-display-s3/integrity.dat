@@ -1,0 +1,5 @@
+bblanchon/ArduinoJson@^7.0.3
+arduino-libraries/NTPClient@^3.2.1
+wnatth3/WiFiManager@^2.0.16-rc.2
+aasim-a/AsyncTimer@^2.4.0
+moononournation/GFX Library for Arduino@^1.4.5
